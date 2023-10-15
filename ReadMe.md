@@ -1,4 +1,4 @@
-# 💫 About Me:
+![image](https://github.com/Kalpanamurugesan/Kalpanamurugesan/assets/83176115/8588c523-23ad-4b53-9b69-da6ae902ed24)# 💫 About Me:
 🔭 I’m currently working on Web Development, Testing<br>🌱 I’m currently learning  JS, Selenium<br>👯 I’m looking to collaborate on Testing and Web Development projects<br>🤝 I’m looking for help with Modern web tech
 
 
@@ -13,6 +13,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpanamurugesan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+# 👨‍💻 Live Projects:
+
+Netflix Landing Page Clone - https://kalpanamurugesan.github.io/netflix_landing_page_clone/ <br>
+<!--BMI Calculator - https://karthi-07.github.io/bmicalculator/ <br--> 
+<!--CGPA Calculator - https://karthi-07.github.io/cgpacalculator/ <br-->
 [![](https://visitcount.itsvg.in/api?id=Kalpanamurugesan&icon=0&color=0)](https://visitcount.itsvg.in)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
